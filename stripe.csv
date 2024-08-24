@@ -1,0 +1,137 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1724514011982,542,View Customers,200,OK,Customer &  Charges 2-3,text,true,,8945,308,22,52,https://api.stripe.com/v1/customers,542,0,133
+1724514012003,534,Create Customers,200,OK,Customer &  Charges 2-4,text,true,,2092,413,23,53,https://api.stripe.com/v1/customers,534,0,117
+1724514011963,578,Create Customers,200,OK,Customer &  Charges 2-2,text,true,,2091,412,23,53,https://api.stripe.com/v1/customers,578,0,137
+1724514012064,537,View Customers,200,OK,Customer &  Charges 2-7,text,true,,8944,308,25,59,https://api.stripe.com/v1/customers,537,0,128
+1724514012050,566,Create Customers,200,OK,Customer &  Charges 2-6,text,true,,2092,413,25,59,https://api.stripe.com/v1/customers,566,0,130
+1724514012147,528,View Customers,200,OK,Customer &  Charges 2-11,text,true,,8944,308,27,64,https://api.stripe.com/v1/customers,528,0,126
+1724514012226,520,View Customers,200,OK,Customer &  Charges 2-15,text,true,,8944,308,30,71,https://api.stripe.com/v1/customers,520,0,117
+1724514012308,516,View Customers,200,OK,Customer &  Charges 2-19,text,true,,8944,308,33,78,https://api.stripe.com/v1/customers,516,0,120
+1724514012246,584,Create Customers,200,OK,Customer &  Charges 2-16,text,true,,2092,413,33,78,https://api.stripe.com/v1/customers,584,0,128
+1724514012334,592,Create Customers,200,OK,Customer &  Charges 2-20,text,true,,2091,412,37,87,https://api.stripe.com/v1/customers,592,0,120
+1724514012368,559,Create Customers,200,OK,Customer &  Charges 2-22,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,559,0,127
+1724514012389,559,View Customers,200,OK,Customer &  Charges 2-23,text,true,,8943,308,37,87,https://api.stripe.com/v1/customers,559,0,123
+1724514012470,522,View Customers,200,OK,Customer &  Charges 2-27,text,true,,8944,308,37,87,https://api.stripe.com/v1/customers,522,0,115
+1724514012451,549,Create Customers,200,OK,Customer &  Charges 2-26,text,true,,2091,412,37,87,https://api.stripe.com/v1/customers,549,0,119
+1724514012092,939,Create Customers,200,OK,Customer &  Charges 2-8,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,939,0,125
+1724514012538,533,View Customers,200,OK,Customer &  Charges 2-31,text,true,,8944,308,37,87,https://api.stripe.com/v1/customers,533,0,124
+1724514012126,961,Create Customers,200,OK,Customer &  Charges 2-10,text,true,,2091,412,37,87,https://api.stripe.com/v1/customers,961,0,124
+1724514012516,574,Create Customers,200,OK,Customer &  Charges 2-30,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,574,0,131
+1724514012166,978,Create Customers,200,OK,Customer &  Charges 2-12,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,978,0,112
+1724514012210,985,Create Customers,200,OK,Customer &  Charges 2-14,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,985,0,123
+1724514012678,547,Create Customers,200,OK,Customer &  Charges 2-38,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,547,0,120
+1724514012289,950,Create Customers,200,OK,Customer &  Charges 2-18,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,950,0,111
+1724514012714,561,Create Customers,200,OK,Customer &  Charges 2-40,text,true,,2090,411,37,87,https://api.stripe.com/v1/customers,561,0,123
+1724514012757,571,Create Customers,200,OK,Customer &  Charges 2-42,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,571,0,123
+1724514012695,671,View Customers,200,OK,Customer &  Charges 2-39,text,true,,8944,308,37,87,https://api.stripe.com/v1/customers,671,0,151
+1724514012795,575,Create Customers,200,OK,Customer &  Charges 2-44,text,true,,2091,412,37,87,https://api.stripe.com/v1/customers,575,0,127
+1724514012408,962,Create Customers,200,OK,Customer &  Charges 2-24,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,962,0,120
+1724514012497,938,Create Customers,200,OK,Customer &  Charges 2-28,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,938,0,115
+1724514012557,956,Create Customers,200,OK,Customer &  Charges 2-32,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,956,0,114
+1724514012914,616,Create Customers,200,OK,Customer &  Charges 2-50,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,616,0,130
+1724514012854,756,View Customers,200,OK,Customer &  Charges 2-47,text,true,,8943,308,37,87,https://api.stripe.com/v1/customers,756,0,126
+1724514012635,1003,Create Customers,200,OK,Customer &  Charges 2-36,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,1003,0,150
+1724514012836,945,Create Customers,200,OK,Customer &  Charges 2-46,text,true,,2091,412,37,87,https://api.stripe.com/v1/customers,945,0,116
+1724514012824,962,create charge,200,OK,Customer &  Charges 2-19,text,true,,4811,422,37,87,https://api.stripe.com/v1/charges,962,0,0
+1724514012525,1262,create charge,200,OK,Customer &  Charges 2-3,text,true,,4810,422,37,87,https://api.stripe.com/v1/charges,1262,0,0
+1724514012875,974,Create Customers,200,OK,Customer &  Charges 2-48,text,true,,2092,413,37,87,https://api.stripe.com/v1/customers,973,0,125
+1724514012619,1236,View Customers,200,OK,Customer &  Charges 2-35,text,true,,8944,308,37,87,https://api.stripe.com/v1/customers,1236,0,163
+1724514012602,1280,create charge,200,OK,Customer &  Charges 2-7,text,true,,4811,422,37,87,https://api.stripe.com/v1/charges,1280,0,0
+1724514013549,354,Single Customer,200,OK,Customer &  Charges 2-2,text,true,,1984,327,37,87,https://api.stripe.com/v1/customers/cus_Qinf5tKyV4y63S,354,0,0
+1724514012992,1006,create charge,200,OK,Customer &  Charges 2-27,text,true,,4810,422,36,86,https://api.stripe.com/v1/charges,1006,0,0
+1724514012949,1082,create charge,200,OK,Customer &  Charges 2-23,text,true,,4807,421,36,86,https://api.stripe.com/v1/charges,1082,0,0
+1724514012747,1321,create charge,200,OK,Customer &  Charges 2-15,text,true,,4810,422,36,86,https://api.stripe.com/v1/charges,1321,0,0
+1724514012599,1500,Create Customers,200,OK,Customer &  Charges 2-34,text,true,,2092,413,36,86,https://api.stripe.com/v1/customers,1500,0,133
+1724514013072,1029,create charge,200,OK,Customer &  Charges 2-31,text,true,,4807,421,36,86,https://api.stripe.com/v1/charges,1029,0,0
+1724514012675,1442,create charge,200,OK,Customer &  Charges 2-11,text,true,,4811,422,36,86,https://api.stripe.com/v1/charges,1442,0,0
+1724514012775,1453,View Customers,200,OK,Customer &  Charges 2-43,text,true,,8944,308,36,86,https://api.stripe.com/v1/customers,1453,0,114
+1724514013831,456,Single Customer,200,OK,Customer &  Charges 2-16,text,true,,1985,327,36,86,https://api.stripe.com/v1/customers/cus_QinfvEOogRAGHK,456,0,0
+1724514013549,767,Single Customer,200,OK,Customer &  Charges 2-4,text,true,,1985,327,35,85,https://api.stripe.com/v1/customers/cus_QinfxBvSd3zHKw,767,0,0
+1724514014007,354,Single Customer,200,OK,Customer &  Charges 2-26,text,true,,1984,327,34,84,https://api.stripe.com/v1/customers/cus_QinfI3Q3hBAOoH,354,0,0
+1724514013627,746,Single Customer,200,OK,Customer &  Charges 2-6,text,true,,1985,327,33,83,https://api.stripe.com/v1/customers/cus_QinfepYYYK8EA5,746,0,0
+1724514013367,1073,create charge,200,OK,Customer &  Charges 2-39,text,true,,4811,422,32,82,https://api.stripe.com/v1/charges,1073,0,0
+1724514014245,364,Single Customer,200,OK,Customer &  Charges 2-18,text,true,,1985,327,32,82,https://api.stripe.com/v1/customers/cus_QinfhTqMxw5CVS,364,0,0
+1724514013787,884,view charges,200,OK,Customer &  Charges 2-3,text,true,,40216,306,31,81,https://api.stripe.com/v1/charges,832,0,0
+1724514013928,744,Single Customer,200,OK,Customer &  Charges 2-20,text,true,,1984,327,30,80,https://api.stripe.com/v1/customers/cus_QinfI9J5cy5hWZ,744,0,0
+1724514014340,347,Single Customer,200,OK,Customer &  Charges 2-42,text,true,,1985,327,29,79,https://api.stripe.com/v1/customers/cus_QinfLE3JpwBo0d,347,0,0
+1724514014371,353,Single Customer,200,OK,Customer &  Charges 2-44,text,true,,1984,327,28,78,https://api.stripe.com/v1/customers/cus_QinftOseKwV6pz,353,0,0
+1724514014371,354,Single Customer,200,OK,Customer &  Charges 2-24,text,true,,1985,327,27,77,https://api.stripe.com/v1/customers/cus_QinfkunPrp2iJi,354,0,0
+1724514013928,828,Single Customer,200,OK,Customer &  Charges 2-22,text,true,,1985,327,26,76,https://api.stripe.com/v1/customers/cus_QinflTIQiQSh4U,828,0,0
+1724514013610,1180,create charge,200,OK,Customer &  Charges 2-47,text,true,,4811,422,25,75,https://api.stripe.com/v1/charges,1180,0,0
+1724514014437,354,Single Customer,200,OK,Customer &  Charges 2-28,text,true,,1985,327,25,75,https://api.stripe.com/v1/customers/cus_QinfksiQsomrDu,354,0,0
+1724514014038,767,Single Customer,200,OK,Customer &  Charges 2-8,text,true,,1985,327,24,74,https://api.stripe.com/v1/customers/cus_Qinf7fNyA4z4rF,767,0,0
+1724514014089,755,Single Customer,200,OK,Customer &  Charges 2-10,text,true,,1984,327,23,73,https://api.stripe.com/v1/customers/cus_QinfyHAoDi5jsS,755,0,0
+1724514013786,1073,view charges,200,OK,Customer &  Charges 2-19,text,true,,40216,306,22,72,https://api.stripe.com/v1/charges,780,0,0
+1724514014104,755,Single Customer,200,OK,Customer &  Charges 2-30,text,true,,1985,327,22,72,https://api.stripe.com/v1/customers/cus_QinfMO99Qrn3Ct,755,0,0
+1724514014532,353,Single Customer,200,OK,Customer &  Charges 2-50,text,true,,1985,327,20,70,https://api.stripe.com/v1/customers/cus_QinfZyi4TBif3U,353,0,0
+1724514014151,736,Single Customer,200,OK,Customer &  Charges 2-12,text,true,,1985,327,19,69,https://api.stripe.com/v1/customers/cus_Qinf4gWZpxM4Pc,736,0,0
+1724514013998,915,view charges,200,OK,Customer &  Charges 2-27,text,true,,40216,306,18,68,https://api.stripe.com/v1/charges,914,0,0
+1724514014198,757,Single Customer,200,OK,Customer &  Charges 2-14,text,true,,1985,327,17,67,https://api.stripe.com/v1/customers/cus_QinfYKApzu22vd,757,0,0
+1724514014118,863,view charges,200,OK,Customer &  Charges 2-11,text,true,,40216,306,16,66,https://api.stripe.com/v1/charges,834,0,0
+1724514014068,915,view charges,200,OK,Customer &  Charges 2-15,text,true,,40216,306,15,65,https://api.stripe.com/v1/charges,857,0,0
+1724514014230,757,Single Customer,200,OK,Customer &  Charges 2-38,text,true,,1985,327,14,64,https://api.stripe.com/v1/customers/cus_QinfVU0OmnbLts,756,0,0
+1724514014642,347,Single Customer,200,OK,Customer &  Charges 2-36,text,true,,1985,327,13,63,https://api.stripe.com/v1/customers/cus_QinfCMCtwmosZH,347,0,0
+1724514014276,742,Single Customer,200,OK,Customer &  Charges 2-40,text,true,,1983,327,12,62,https://api.stripe.com/v1/customers/cus_Qinfe53cA7zalv,742,0,0
+1724514013882,1156,view charges,200,OK,Customer &  Charges 2-7,text,true,,40216,306,11,61,https://api.stripe.com/v1/charges,795,0,0
+1724514014782,350,Single Customer,200,OK,Customer &  Charges 2-46,text,true,,1984,327,10,60,https://api.stripe.com/v1/customers/cus_QinfQFwCqvo33r,350,0,0
+1724514013856,1329,create charge,200,OK,Customer &  Charges 2-35,text,true,,4810,422,9,59,https://api.stripe.com/v1/charges,1329,0,0
+1724514014860,344,Single Customer,200,OK,Customer &  Charges 2-48,text,true,,1985,327,9,59,https://api.stripe.com/v1/customers/cus_Qinfe3yFRL373m,344,0,0
+1724514014516,747,Single Customer,200,OK,Customer &  Charges 2-32,text,true,,1985,327,8,58,https://api.stripe.com/v1/customers/cus_QinfQi6iVhmwx1,746,0,0
+1724514014229,1206,create charge,200,OK,Customer &  Charges 2-43,text,true,,4811,422,7,57,https://api.stripe.com/v1/charges,1206,0,0
+1724514014102,1335,view charges,200,OK,Customer &  Charges 2-31,text,true,,40217,306,7,57,https://api.stripe.com/v1/charges,1335,0,0
+1724514014031,1490,view charges,200,OK,Customer &  Charges 2-23,text,true,,40217,306,6,56,https://api.stripe.com/v1/charges,1345,0,0
+1724514014791,1016,view charges,200,OK,Customer &  Charges 2-47,text,true,,40217,306,5,55,https://api.stripe.com/v1/charges,785,0,0
+1724514015101,737,Single Customer,200,OK,Customer &  Charges 2-34,text,true,,1985,327,4,54,https://api.stripe.com/v1/customers/cus_QinfXoVSw3hTEO,737,0,0
+1724514014440,1511,view charges,200,OK,Customer &  Charges 2-39,text,true,,40217,306,3,53,https://api.stripe.com/v1/charges,769,0,0
+1724514015186,929,view charges,200,OK,Customer &  Charges 2-35,text,true,,40217,306,2,52,https://api.stripe.com/v1/charges,851,0,0
+1724514015436,1676,view charges,200,OK,Customer &  Charges 2-43,text,true,,40217,306,1,51,https://api.stripe.com/v1/charges,1360,0,0
+1724514012296,13981,Stripe API,200,OK,Home 1-19,text,true,,1900738,120,50,50,https://docs.stripe.com/api,937,0,171
+1724514012218,16205,Stripe API,200,OK,Home 1-15,text,true,,1900730,120,49,49,https://docs.stripe.com/api,1979,0,180
+1724514012499,16022,Stripe API,200,OK,Home 1-29,text,true,,1900738,120,48,48,https://docs.stripe.com/api,778,0,175
+1724514012438,16106,Stripe API,200,OK,Home 1-26,text,true,,1900738,120,47,47,https://docs.stripe.com/api,849,0,178
+1724514012341,17036,Stripe API,200,OK,Home 1-21,text,true,,1900738,120,46,46,https://docs.stripe.com/api,1010,0,187
+1724514012397,17107,Stripe API,200,OK,Home 1-24,text,true,,1900738,120,45,45,https://docs.stripe.com/api,839,0,177
+1724514012719,16873,Stripe API,200,OK,Home 1-40,text,true,,1900738,120,44,44,https://docs.stripe.com/api,977,0,189
+1724514012739,16973,Stripe API,200,OK,Home 1-41,text,true,,1900738,120,43,43,https://docs.stripe.com/api,1471,0,186
+1724514012550,18490,Stripe API,200,OK,Home 1-31,text,true,,1900730,120,42,42,https://docs.stripe.com/api,823,0,183
+1724514012880,18227,Stripe API,200,OK,Home 1-48,text,true,,1900738,120,41,41,https://docs.stripe.com/api,1118,0,194
+1724514012057,19350,Stripe API,200,OK,Home 1-7,text,true,,1900738,120,40,40,https://docs.stripe.com/api,958,0,173
+1724514012562,18845,Stripe API,200,OK,Home 1-32,text,true,,1900738,120,40,40,https://docs.stripe.com/api,1072,0,187
+1724514011928,19570,Stripe API,200,OK,Home 1-1,text,true,,1900738,120,38,38,https://docs.stripe.com/api,867,0,196
+1724514012478,19063,Stripe API,200,OK,Home 1-28,text,true,,1900738,120,37,37,https://docs.stripe.com/api,997,0,189
+1724514012251,19500,Stripe API,200,OK,Home 1-16,text,true,,1900738,120,36,36,https://docs.stripe.com/api,780,0,171
+1724514012680,19537,Stripe API,200,OK,Home 1-38,text,true,,1900738,120,35,35,https://docs.stripe.com/api,907,0,212
+1724514011998,20935,Stripe API,200,OK,Home 1-4,text,true,,1900738,120,34,34,https://docs.stripe.com/api,808,0,185
+1724514012378,20801,Stripe API,200,OK,Home 1-23,text,true,,1900730,120,33,33,https://docs.stripe.com/api,1256,0,179
+1724514012859,20664,Stripe API,200,OK,Home 1-47,text,true,,1900738,120,32,32,https://docs.stripe.com/api,1055,0,187
+1724514012182,21598,Stripe API,200,OK,Home 1-13,text,true,,1900738,120,31,31,https://docs.stripe.com/api,763,0,179
+1724514012820,21054,Stripe API,200,OK,Home 1-45,text,true,,1900730,120,30,30,https://docs.stripe.com/api,844,0,174
+1724514012357,21776,Stripe API,200,OK,Home 1-22,text,true,,1900730,120,29,29,https://docs.stripe.com/api,839,0,176
+1724514012621,21605,Stripe API,200,OK,Home 1-35,text,true,,1900738,120,28,28,https://docs.stripe.com/api,1073,0,194
+1724514012780,21631,Stripe API,200,OK,Home 1-43,text,true,,1900738,120,27,27,https://docs.stripe.com/api,1309,0,171
+1724514012099,22555,Stripe API,200,OK,Home 1-9,text,true,,1900730,120,26,26,https://docs.stripe.com/api,745,0,175
+1724514012900,21756,Stripe API,200,OK,Home 1-49,text,true,,1900730,120,25,25,https://docs.stripe.com/api,869,0,187
+1724514012698,22131,Stripe API,200,OK,Home 1-39,text,true,,1900738,120,24,24,https://docs.stripe.com/api,909,0,208
+1724514012269,22563,Stripe API,200,OK,Home 1-17,text,true,,1900738,120,23,23,https://docs.stripe.com/api,746,0,169
+1724514012658,22291,Stripe API,200,OK,Home 1-37,text,true,,1900738,120,22,22,https://docs.stripe.com/api,816,0,189
+1724514012761,22282,Stripe API,200,OK,Home 1-42,text,true,,1900738,120,21,21,https://docs.stripe.com/api,841,0,176
+1724514011977,23199,Stripe API,200,OK,Home 1-3,text,true,,1900738,120,20,20,https://docs.stripe.com/api,917,0,172
+1724514012198,23050,Stripe API,200,OK,Home 1-14,text,true,,1900738,120,19,19,https://docs.stripe.com/api,768,0,177
+1724514012919,22640,Stripe API,200,OK,Home 1-50,text,true,,1900738,120,18,18,https://docs.stripe.com/api,1087,0,223
+1724514012017,23975,Stripe API,200,OK,Home 1-5,text,true,,1900738,120,17,17,https://docs.stripe.com/api,749,0,181
+1724514011954,24104,Stripe API,200,OK,Home 1-2,text,true,,1900738,120,16,16,https://docs.stripe.com/api,786,0,184
+1724514012841,23439,Stripe API,200,OK,Home 1-46,text,true,,1900738,120,15,15,https://docs.stripe.com/api,882,0,194
+1724514012156,24363,Stripe API,200,OK,Home 1-12,text,true,,1900738,120,14,14,https://docs.stripe.com/api,803,0,176
+1724514012319,24340,Stripe API,200,OK,Home 1-20,text,true,,1900738,120,13,13,https://docs.stripe.com/api,950,0,176
+1724514012118,24834,Stripe API,200,OK,Home 1-10,text,true,,1900738,120,12,12,https://docs.stripe.com/api,771,0,177
+1724514012642,24547,Stripe API,200,OK,Home 1-36,text,true,,1900738,120,11,11,https://docs.stripe.com/api,1022,0,176
+1724514012135,25169,Stripe API,200,OK,Home 1-11,text,true,,1900730,120,10,10,https://docs.stripe.com/api,825,0,183
+1724514012417,24922,Stripe API,200,OK,Home 1-25,text,true,,1900738,120,9,9,https://docs.stripe.com/api,1059,0,188
+1724514012278,26030,Stripe API,200,OK,Home 1-18,text,true,,1900730,120,8,8,https://docs.stripe.com/api,1944,0,172
+1724514012520,26655,Stripe API,200,OK,Home 1-30,text,true,,1900738,120,7,7,https://docs.stripe.com/api,893,0,210
+1724514012457,27360,Stripe API,200,OK,Home 1-27,text,true,,1900738,120,6,6,https://docs.stripe.com/api,791,0,170
+1724514012583,28337,Stripe API,200,OK,Home 1-33,text,true,,1900738,120,5,5,https://docs.stripe.com/api,818,0,178
+1724514012040,29096,Stripe API,200,OK,Home 1-6,text,true,,1900738,120,4,4,https://docs.stripe.com/api,866,0,177
+1724514012801,29875,Stripe API,200,OK,Home 1-44,text,true,,1900738,120,3,3,https://docs.stripe.com/api,907,0,178
+1724514012078,34404,Stripe API,200,OK,Home 1-8,text,true,,1900738,120,2,2,https://docs.stripe.com/api,788,0,187
+1724514012599,35645,Stripe API,200,OK,Home 1-34,text,true,,1900738,120,1,1,https://docs.stripe.com/api,801,0,218
